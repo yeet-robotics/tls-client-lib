@@ -1,0 +1,3 @@
+[submodule "tls-client-go"]
+	path = tls-client-go
+	url = https://github.com/yeet-robotics/tls-client-go
